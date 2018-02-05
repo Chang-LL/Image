@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Image", "PythonApplication4\Image.pyproj", "{09F888E5-0C91-4AA6-935B-8EC6CB9D9B8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09F888E5-0C91-4AA6-935B-8EC6CB9D9B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F888E5-0C91-4AA6-935B-8EC6CB9D9B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7493BE3-56A7-4158-974D-C0F147DC98D0}
+	EndGlobalSection
+EndGlobal
